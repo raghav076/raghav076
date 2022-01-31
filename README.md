@@ -20,7 +20,7 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<p align="center"> 
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
@@ -48,7 +48,9 @@
 </p>
 
 ## 📊 My Github Stats
-
+<!-- <p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=raghav076&theme=darkhub">
+</p> -->
   <br/>
     <a href="https://github.com/raghav076/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=raghav076&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/raghav076/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav076&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -75,7 +77,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/raghav076">
     <img src="https://komarev.com/ghpvc/?username=raghav076">
 </a>
 <a href="https://github.com/raghav076?tab=followers"><img src="https://img.shields.io/github/followers/raghav076?label=Followers&style=social" alt="GitHub Badge"></a>
